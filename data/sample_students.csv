@@ -1,0 +1,6 @@
+student_id,degree,skills,projects,interests
+S001,B.Tech Computer Science,"Python; SQL; pandas; data visualization","Music Taste Analyzer; sales dashboard","data analytics; machine learning"
+S002,B.Tech Information Technology,"Java; Spring Boot; MySQL; REST APIs","Library management system; event booking API","backend development; cloud"
+S003,B.E. Computer Engineering,"Python; scikit-learn; NLP; Git","Product review sentiment analyzer; spam classifier","machine learning; natural language processing"
+S004,B.Tech Computer Science,"JavaScript; React; HTML; CSS; Git","Campus events portal; personal portfolio","frontend development; UI engineering"
+S005,B.Tech Information Technology,"Python; Excel; Power BI; SQL","Student performance dashboard; placement data report","business analytics; data visualization"

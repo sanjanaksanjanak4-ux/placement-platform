@@ -1,0 +1,6 @@
+job_id,role,company,required_skills,location,description
+J001,Junior Data Analyst,Northstar Analytics,"Python; SQL; pandas; data visualization",Bengaluru,"Prepare datasets, build reports, and communicate trends to business teams."
+J002,Backend Developer,BlueOak Systems,"Java; Spring Boot; MySQL; REST APIs",Pune,"Develop and maintain backend services and APIs with a product engineering team."
+J003,Machine Learning Intern,Maple Labs,"Python; scikit-learn; NLP; Git",Remote,"Prototype and evaluate machine learning models for text analysis tasks."
+J004,Frontend Developer,PixelRiver,"JavaScript; React; HTML; CSS; Git",Hyderabad,"Build accessible web interfaces and collaborate with design and backend teams."
+J005,Business Intelligence Analyst,Clearview Retail,"Python; Excel; Power BI; SQL",Chennai,"Create dashboards and reports that help teams understand operational performance."
